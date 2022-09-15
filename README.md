@@ -1,2 +1,1 @@
-# expense-tracker
-React tutorial
+See master branch
